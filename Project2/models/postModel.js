@@ -34,6 +34,6 @@ const postSchema=new mongoose.Schema({
 
 
 
-
+//1.02
 //export
 module.exports=mongoose.model("Post",postSchema);
