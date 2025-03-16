@@ -11,3 +11,7 @@ const connectToDB=()=>{
 
 
 }
+
+
+// Export the function
+module.exports = connectToDB;
